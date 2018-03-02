@@ -1,0 +1,2 @@
+bmon:
+ pkg.installed: []
